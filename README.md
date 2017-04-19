@@ -2,7 +2,7 @@
 ### DON'T CLAIM THE FUCKING BOT AS YOUR OWN
 
 # Commands
-## Documented (Total - 19)
+### Documented (Total - 19)
 #### Commands that appear in the help command.
 **Developer Commands** 
 1. **ping** Pong 
@@ -33,9 +33,17 @@
 1. **purge** Deletes messages in a channel 
 2. **clear x** Deletes messages in a channel, replace x with the amount of messages you want to delete 
 
-## Undocumented Commands
+### Undocumented Commands (Total - 1)
 #### Commands that don't appear in the help command.
-- **Prefix x** (OWNER ONLY) Replace x with new prefix and it will become the new prefix. (If you type '$prefix suc' the ***custom prefix*** will be 'suc-')
+- **prefix x** (OWNER ONLY) Replace x with new prefix and it will become the new prefix. (If you type '$prefix suc' the ***custom prefix*** will be 'suc-')
+
+# Dictionary
+### Words/Word combinations to understand while viewing this documentation.
+- **Prefix** The thing that comes before a command, the default for the main prefix is '$'.
+- **Alt Prefix** Stand for 'Alternate Prefix', a prefix that you can use for commands without triggering other bots that use $. The default Alt Prefix is 'llamabot-'.
+- **Custom Prefix** A prefix that isn't permanent and can be modified during the runtime of the bot. The default Custom Prefix is 'aaa-' and can be changed by the **prefix** command. (Listed in the Undocumented Commands section)
+- **Owner ID** The ID of the owner of the bot. (Presumably you)
+- **Bot Token** The Token of your bot is actually your bot's password. Do NOT let this become public or else your bot can be comprimised! (No username required) There is an option to refresh it if it is.
 
 # Setup
 1. Download + Un-zip
@@ -48,7 +56,7 @@
 8. Run the 'runbot.bat' file and the bot should run.
 
 # Official Stuff
-[Discord Server](https://discord.gg/BBax4jk/)
-[Website](http://llamabot.tk/)
-[Invite](http://bit.ly/2oNnEEa)
-[Contact](mailto:miningamer@gmail.com)
+- [Discord Server](https://discord.gg/BBax4jk/)
+- [Website](http://llamabot.tk/)
+- [Invite](http://bit.ly/2oNnEEa)
+- [Contact](mailto:miningamer@gmail.com)
