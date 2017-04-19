@@ -58,5 +58,5 @@
 # Official Stuff
 - [Discord Server](https://discord.gg/BBax4jk/)
 - [Website](http://llamabot.tk/)
-- [Invite](http://bit.ly/2oNnEEa)
+- [Add Bot](http://bit.ly/2oNnEEa)
 - [Contact](mailto:miningamer@gmail.com)
