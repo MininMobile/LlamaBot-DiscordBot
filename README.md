@@ -58,5 +58,6 @@
 # Official Stuff
 - [Discord Server](https://discord.gg/BBax4jk/)
 - [Website](http://llamabot.tk/)
+- [WIKI](http://llamabot-wiki.tk/)
 - [Add Bot](http://bit.ly/2oNnEEa)
 - [Contact](mailto:miningamer@gmail.com)
