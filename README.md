@@ -1,5 +1,6 @@
 # Llama Bot
 ### DON'T CLAIM THE FUCKING BOT AS YOUR OWN
+This version of the bot is out of date...
 
 # Commands
 ### Documented (Total - 19)
@@ -57,7 +58,6 @@
 
 # Official Stuff
 - [Discord Server](https://discord.gg/BBax4jk/)
-- [Website](http://llamabot.tk/)
-- [WIKI](http://llamabot-wiki.tk/)
+- [Website/Wiki](http://llamabot.tk/)
 - [Add Bot](http://bit.ly/2oNnEEa)
 - [Contact](mailto:miningamer@gmail.com)
